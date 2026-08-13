@@ -27,5 +27,6 @@ window.addEventListener("load", () => {
         "stroke-width": 1.8
       }
     });
+    document.body.classList.add("icons-ready");
   }
 });

@@ -114,6 +114,11 @@ img {
   font-size: 0.9rem;
 }
 
+.nav-download,
+.mobile-label {
+  display: none;
+}
+
 .site-nav a:hover,
 .site-nav a:focus-visible {
   background: rgba(255, 255, 255, 0.07);
@@ -166,6 +171,38 @@ img {
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.06);
   color: #fff;
+}
+
+.nav-bars {
+  position: relative;
+  display: block;
+  width: 19px;
+  height: 2px;
+  border-radius: 99px;
+  background: currentColor;
+}
+
+.nav-bars::before,
+.nav-bars::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 19px;
+  height: 2px;
+  border-radius: 99px;
+  background: currentColor;
+}
+
+.nav-bars::before {
+  top: -6px;
+}
+
+.nav-bars::after {
+  top: 6px;
+}
+
+.icons-ready .nav-bars {
+  display: none;
 }
 
 .hero {
@@ -605,8 +642,29 @@ svg {
     padding: 0.9rem;
   }
 
-  .header-cta span {
+  .nav-download {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    margin-top: 0.25rem;
+    border: 1px solid rgba(54, 240, 162, 0.38);
+    background: linear-gradient(135deg, rgba(54, 240, 162, 0.18), rgba(243, 195, 90, 0.12));
+    color: #fff;
+    font-weight: 800;
+  }
+
+  .header-cta {
+    min-width: 54px;
+    padding-inline: 0.8rem;
+  }
+
+  .header-cta .desktop-label {
     display: none;
+  }
+
+  .header-cta .mobile-label {
+    display: inline;
   }
 
   .hero {
@@ -666,7 +724,18 @@ svg {
   }
 
   .hero h1 {
-    font-size: clamp(2.55rem, 16vw, 4.35rem);
+    font-size: clamp(2.15rem, 12vw, 3.35rem);
+    line-height: 1;
+  }
+
+  .hero-copy {
+    margin-top: 1rem;
+    font-size: 1rem;
+    line-height: 1.55;
+  }
+
+  .hero-actions {
+    margin-top: 1.15rem;
   }
 
   .hero-stats,

@@ -5,7 +5,7 @@ Static portfolio site for Arsal Azeem, Senior SDET and QA Automation Engineer.
 ## Included
 
 - SEO-focused one-page portfolio
-- Resume and detailed CV downloads
+- Public no-phone resume and ATS CV downloads
 - Responsive layout
 - Open Graph and Twitter card metadata
 - Schema.org Person structured data

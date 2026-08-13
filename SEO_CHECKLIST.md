@@ -57,7 +57,7 @@ Add the portfolio link to:
 
 - LinkedIn profile website field
 - GitHub profile README or bio
-- Resume PDF contact area when you next regenerate it
+- Public no-phone resume PDF links
 - Job boards or freelancing profiles
 
 ## 6. Ongoing content

@@ -18,5 +18,9 @@
   Content-Type: text/plain; charset=utf-8
   Cache-Control: public, max-age=3600
 
-/public/assets/*
+/public/assets/qa-automation-hero.png
   Cache-Control: public, max-age=31536000, immutable
+
+/public/assets/*.pdf
+  X-Robots-Tag: noarchive
+  Cache-Control: public, max-age=3600

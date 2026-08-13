@@ -1,0 +1,22 @@
+/
+  Link: <https://arsalazeem.net/>; rel="canonical"
+  X-Robots-Tag: index, follow
+
+/index.html
+  Link: <https://arsalazeem.net/>; rel="canonical"
+  X-Robots-Tag: index, follow
+
+/sitemap.xml
+  Content-Type: application/xml; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/robots.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/public/assets/*
+  Cache-Control: public, max-age=31536000, immutable

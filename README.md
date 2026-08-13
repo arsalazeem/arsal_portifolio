@@ -9,9 +9,19 @@ Static portfolio site for Arsal Azeem, Senior SDET and QA Automation Engineer.
 - Responsive layout
 - Open Graph and Twitter card metadata
 - Schema.org Person structured data
+- Canonical metadata, sitemap, robots.txt sitemap discovery, and Cloudflare Pages headers
+- llms.txt summary for AI/search crawlers
 
 ## Hosting Notes
 
 This is a static site. It can be hosted on GitHub Pages, Netlify, Vercel, Cloudflare Pages, or any static web host.
 
-After choosing a live domain, update social image URLs and canonical metadata if needed.
+The canonical domain currently used in metadata is:
+
+https://arsalazeem.net/
+
+For best SEO, redirect all duplicate hostnames to that canonical domain and submit:
+
+https://arsalazeem.net/sitemap.xml
+
+in Google Search Console after deployment.

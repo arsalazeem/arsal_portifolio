@@ -1,0 +1,23 @@
+# Arsal Azeem
+
+> Senior SDET and QA Automation Engineer specializing in API automation, distributed systems testing, browser automation, CI/CD, AWS, Kubernetes, performance testing, and AI-assisted quality engineering.
+
+Website: https://arsalazeem.net/
+Email: azeemarsal@gmail.com
+LinkedIn: https://linkedin.com/in/arsalazeem
+GitHub: https://github.com/arsalazeem
+
+## Primary Expertise
+
+- Senior SDET / QA Automation Engineer
+- API automation and service-level testing
+- Playwright, Selenium, REST Assured, JUnit 5, PyTest, unittest
+- Kafka, gRPC, REST APIs, microservices, PostgreSQL, Redis
+- CI/CD regression automation with GitHub Actions, Docker, Kubernetes, Bash, and Cron
+- AWS infrastructure validation across VPC, EC2, ELB, S3, ECR, and Lambda
+- Locust performance testing and hardware/IoT dependency mocking
+- AI-assisted engineering with Codex, Claude, prompt engineering, and context engineering
+
+## Client Fit
+
+Arsal is a strong fit for teams searching for a remote Senior SDET, QA automation engineer, API automation engineer, Playwright automation specialist, REST Assured automation engineer, microservices test automation consultant, or CI regression automation engineer.

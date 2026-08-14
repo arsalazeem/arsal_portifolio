@@ -1,6 +1,6 @@
 # Arsal Azeem
 
-> Senior SDET and QA Automation Engineer specializing in API automation, distributed systems testing, browser automation, CI/CD, AWS, Kubernetes, performance testing, and AI-assisted quality engineering.
+> Remote Pakistan-based Senior SDET, SQA Engineer, QA Automation Engineer, and API Automation Engineer specializing in API automation, distributed systems testing, browser automation, CI/CD, AWS, Kubernetes, performance testing, and AI-assisted QA automation.
 
 Website: https://arsalazeem.net/
 Email: azeemarsal@gmail.com
@@ -10,6 +10,9 @@ GitHub: https://github.com/arsalazeem
 ## Primary Expertise
 
 - Senior SDET / QA Automation Engineer
+- Remote QA Engineer / Remote SQA Engineer
+- API Automation Engineer
+- AI QA Automation Engineer
 - API automation and service-level testing
 - Playwright, Selenium, REST Assured, JUnit 5, PyTest, unittest
 - Kafka, gRPC, REST APIs, microservices, PostgreSQL, Redis
@@ -20,4 +23,6 @@ GitHub: https://github.com/arsalazeem
 
 ## Client Fit
 
-Arsal is a strong fit for teams searching for a remote Senior SDET, QA automation engineer, API automation engineer, Playwright automation specialist, REST Assured automation engineer, microservices test automation consultant, or CI regression automation engineer.
+Arsal is a strong fit for teams searching for a remote Senior SDET, remote QA engineer, remote SQA engineer, Pakistan QA automation engineer, API automation engineer, Playwright automation specialist, REST Assured automation engineer, Selenium automation engineer, microservices test automation consultant, AI QA automation engineer, AI-assisted QA automation engineer, cloud QA engineer, Kubernetes testing engineer, or CI regression automation engineer.
+
+Relevant search phrases include remote QA engineer, remote QA automation engineer, remote SQA engineer, remote SDET, hire QA engineer, hire QA tester, hire automation engineer, hire QA automation engineer, hire Pakistan QA automation engineer, hire AI QA automation engineer, API Automation Engineer, microservices testing, microservice test automation, REST Assured engineer, Playwright automation engineer, Selenium automation engineer, Postman API testing, Kafka testing, gRPC testing, PostgreSQL testing, Redis testing, Docker testing, Kubernetes testing, K8s testing, AWS testing, CI/CD testing, regression testing, manual QA testing, web app testing, Locust performance testing, Codex QA automation, and Claude QA automation.

@@ -583,7 +583,7 @@ h2 {
 
 .download-row {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: 0.75rem;
   margin-top: 0.3rem;
 }
@@ -592,6 +592,7 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 1rem;
   width: min(var(--max), calc(100% - 32px));
   margin: 0 auto;
   padding: 1.5rem 0 2rem;
@@ -599,7 +600,23 @@ h2 {
   color: var(--muted);
 }
 
-.site-footer a {
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.footer-text-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 42px;
+  padding: 0 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--soft);
+}
+
+.back-to-top {
   display: grid;
   place-items: center;
   width: 42px;
@@ -717,6 +734,11 @@ svg {
   .trust-strip,
   .site-footer {
     width: calc(100% - 24px);
+  }
+
+  .site-footer {
+    align-items: flex-start;
+    flex-wrap: wrap;
   }
 
   .hero {
